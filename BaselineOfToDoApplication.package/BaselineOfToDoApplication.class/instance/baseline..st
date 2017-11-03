@@ -8,5 +8,5 @@ baseline: spec
 			spec
 				package: 'Seaside-Examples' with: [ spec requires: #('Seaside3' ) ].
 			spec
-				group: 'Deployment' with: #('Seaside-Examples-Misc');
+				group: 'Deployment' with: #('Seaside-Examples');
 				group: 'default' with: #('Deployment') ]
