@@ -1,0 +1,3 @@
+initialization
+stopAlgorithm
+	adaptor stop

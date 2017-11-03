@@ -1,0 +1,3 @@
+initialization
+stopServer
+	adaptor stop

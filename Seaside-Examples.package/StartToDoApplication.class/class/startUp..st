@@ -1,0 +1,3 @@
+initialization
+startUp: aBoolean
+	ToDoApplicationManager instance startAlgorithm

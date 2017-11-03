@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Seaside-Examples-Misc",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"adaptor"
+	],
+	"name" : "ToDoApplicationManager",
+	"type" : "normal"
+}

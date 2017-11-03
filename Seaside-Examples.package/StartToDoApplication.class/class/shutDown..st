@@ -1,0 +1,3 @@
+initialization
+shutDown: aBoolean
+	ToDoApplicationManager instance stopAlgorithm

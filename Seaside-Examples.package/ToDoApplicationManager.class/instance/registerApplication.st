@@ -1,0 +1,3 @@
+initialization
+registerApplication
+	WATodo initialize
