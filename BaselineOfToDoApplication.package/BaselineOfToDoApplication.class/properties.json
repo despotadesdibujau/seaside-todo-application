@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "BaselineOf",
+	"super" : "Object",
 	"category" : "BaselineOfToDoApplication",
 	"classinstvars" : [ ],
 	"pools" : [ ],

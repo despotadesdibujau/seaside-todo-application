@@ -6,7 +6,7 @@ baseline: spec
 		for: #common
 		do: [ self setUpDependencies: spec.
 			spec
-				package: 'Seaside-Examples-Misc' with: [ spec requires: #('Seaside3' ) ].
+				package: 'Seaside-Examples' with: [ spec requires: #('Seaside3' ) ].
 			spec
 				group: 'Deployment' with: #('Seaside-Examples-Misc');
 				group: 'default' with: #('Deployment') ]
