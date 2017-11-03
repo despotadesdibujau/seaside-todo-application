@@ -1,3 +1,3 @@
 initialization
 stopAlgorithm
-	adaptor stop
+	adaptor ifNotNil: [adaptor stop]

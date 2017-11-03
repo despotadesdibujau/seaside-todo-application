@@ -1,3 +1,3 @@
 initialization
 stopServer
-	adaptor stop
+	adaptor ifNotNil: [ adaptor stop] 
